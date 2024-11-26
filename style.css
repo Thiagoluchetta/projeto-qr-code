@@ -34,7 +34,7 @@ img{
     justify-items: center;
     flex-wrap: wrap;
 }
-p{
+p,h1{
     padding: 5px;
     margin: 7px;
     text-align: center;
